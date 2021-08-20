@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kadasah
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on bakerhughes
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9665483024
 
 <!---
